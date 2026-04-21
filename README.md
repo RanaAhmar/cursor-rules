@@ -33,6 +33,7 @@ This repository provides copy-paste ready `.cursorrules` files designed to drama
 Have a battle-tested rule that improves AI output? We want it! Read our `CONTRIBUTING.md` for details on how to submit a Pull Request.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -50,4 +51,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
